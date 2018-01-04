@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'RacingSansOne';
+  src: url("../fonts/RacingSansOne-Regular.ttf");
+}
+
+body {
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'RacingSansOne', Arial, sans-serif;
+  color: #F67280;
+  font-size: 50px;
+  margin-bottom: 60px;
+}
+
+h2 {
+  margin-top: 90px;
+  font-size: 20px;
+}
+
+pre {
+  text-align: left;
+  font-size: 12px;
+  padding: 10px;
+  border: solid 1px #aeaeae;
+  margin-bottom: 40px;
+}
+
+code {
+  width: 100%;
+}
+
+.left {
+  text-align: left;
+}
+
+.image {
+  max-width: 600px;
+  text-align: center;
+  margin: 80px auto;
+}
+
